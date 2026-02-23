@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "listversion1",
+]
+resolver = "3"
